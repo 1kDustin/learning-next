@@ -1,0 +1,61 @@
+.mainContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.rightContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.headerTitle {
+    font-size: 30;
+    margin-left: 10px;
+}
+
+.buttonTitle {
+    font-size: 26;
+    text-decoration: none;
+    color:aliceblue;
+}
+
+.buttonContainerGreen {
+    border-radius: 5px;
+    padding: 15px;
+    width: 100px;
+    background-color: #32a852;
+    align-items: center;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.buttonContainerBlue {
+    border-radius: 5px;
+    padding: 15px;
+    background-color: #32a8a8;
+    align-items: center;
+    margin-right: 10px;
+    text-align: center;
+    width: 100px;
+}
+
+.buttonContainerOrange {
+    border-radius: 5px;
+    padding: 15px;
+    background-color: #e0974f;
+    align-items: center;
+    margin-right: 10px;
+    text-align: center;
+    width: 100px;
+}
+
+.buttonContainerPink {
+    border-radius: 5px;
+    padding: 15px;
+    background-color: #ff91c3;
+    align-items: center;
+    margin-right: 10px;
+    text-align: center;
+    width: 100px;
+}
